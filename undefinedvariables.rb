@@ -8,3 +8,7 @@ end
 sample "Sanjeev", "Hemali", "Mohan", "15"
 sample "23", "26", "Kaustubh"
 sample "56", "Waqar"
+
+
+# .. --> include last value
+# ... --> not include last value

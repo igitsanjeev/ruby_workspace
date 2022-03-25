@@ -7,7 +7,7 @@
 
 def test (a1 = "Wipro", a2 = "Devops")
   print "I am working in #{a1} "
-  puts "as a #{a2} department"
+  puts "in a #{a2} department"
 end
 
 test "C1", "C2"

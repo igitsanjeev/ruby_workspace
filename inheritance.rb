@@ -15,5 +15,5 @@ class A
 end
 
   class B < A
-    A.new.abc
+  abc
   end
